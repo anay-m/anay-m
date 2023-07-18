@@ -8,7 +8,7 @@
 I am a CS student at the University of Michigan.
 Follow along to see my personal projects and hear about my passions!
 
-You can check out my personal website at [Anay Modi](anay-m.github.io), which is currently under construction!
+You can check out my personal website at [Anay Modi](https://anay-m.github.io), which is currently under construction!
 My [LinkedIn](https://www.linkedin.com/in/anay-modi/) is also here if anyone wants to connect! Go blue!!
 
 ### Contact
