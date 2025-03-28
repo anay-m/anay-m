@@ -1,30 +1,16 @@
-## 👋🏾 Hey, I'm Anay! 
+## 👋🏾 Hey, I'm Anay!
 
-### Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src =
-'https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' width = '50'/>
+I’m a software engineer intern at **Stripe** and an aspiring founder. I love building my own projects.
 
- ### About
-I am a CS student at the University of Michigan.
-Follow along to see my personal projects and hear about my passions!
+Follow along at my [anaymodi.com](https://anaymodi.com) and connect with me on [Twitter](https://x.com/AnayModi) & [LinkedIn](https://www.linkedin.com/in/anay-modi/)!
 
-You can check out my personal website at [Anay Modi](https://anay-m.github.io), which is currently under construction!
-My [LinkedIn](https://www.linkedin.com/in/anay-modi/) is also here if anyone wants to connect! Go blue!!
+**Some things I’ve done:**
+- → Founded *Plack*, a consumer app to scan your favorite food products for microplastics. [plack.io](https://plack.io)
+- → Tried shipping an [AI memories app](https://nostalgia-app.com) (which never made it to the app store ...).
+- → Engaged in lots of ML research in healthcare, hackathon projects with AR/VR & LLMs, and independent projects involving distributed systems & AI acceleration.
+- → Scaled a community of UofM engineers, hackers, and founders called [V1 Michigan](v1michigan.com) (hosted coworking sessions, dinners/meetups, and demo days).
+
+---
 
 ### Contact
 [![Gmail Badge](https://img.shields.io/badge/-anaym@umich.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anaym@umich.edu)](mailto:anaym@umich.edu)
-
-<!--
-**anay-m/anay-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
